@@ -1,8 +1,7 @@
 # ActionSheet封装
 一行代码引入项目
 
-![img](/Users/lizhen/Documents/学习/ActionSheet封装/ActionSheet.gif)
-
+![img](https://github.com/CoderZhenLee/ActionSheet/blob/9deb1099a74f68dc3ccfe479296b363cde22c37e/ActionSheet.gif)
 
 ````
 直接调用
